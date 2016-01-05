@@ -1,0 +1,10 @@
+{
+  "css": {
+    "filters": "css",
+    "profile": "css",
+    "snippets": {
+      "m0a": "margin: 0 auto;|",
+      "tal": "text-align: left;"
+    }
+  }
+}
